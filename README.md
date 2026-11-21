@@ -1,18 +1,85 @@
-# 💫 About Me:
-🔭 I’m currently a college student<br>🌱 I’m currently learning 
+Hi, I'm Sandesh Vikal 👋
 
+Java Backend Developer | AI/ML & Automation Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandesh Vikal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kanish Vikal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandesh.vikal.cseiot.2023@miet.ac.in) 
+🎓 B.Tech Computer Science and Engineering (IoT) student at MIET, Meerut, graduating in 2027.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandeshvikal&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sandeshvikal&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshvikal&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+👨‍💻 About Me
+
+- 💼 Completed a 3-month AI/ML and Automation Internship at HCLTech, Noida.
+- ☕ Interested in Java Backend Development and Spring Boot.
+- 🤖 Learning Artificial Intelligence, LLMs and Generative AI.
+- 🚀 Hands-on learning experience with SAP Joule and Joule Studio.
+- 🌱 Improving my skills in Data Structures, Algorithms and Backend Development.
+- 🎯 Aspiring Software Developer.
+
+💼 Internship Experience
+
+AI/ML and Automation Intern | HCLTech, Noida
+
+July 2026 – October 2026
+
+- Learned AI, Large Language Models (LLMs) and Generative AI fundamentals.
+- Explored SAP AI and SAP Joule concepts.
+- Worked with SAP Build – Joule Studio (Classic Edition).
+- Created and tested Joule Skills for supplier information and customer order retrieval.
+- Used Northwind data for customer order retrieval.
+
+🚀 Projects
+
+1. Smart Contact Manager (SCM 2.0)
+
+Technologies: Java, Spring Boot, Spring Security, MySQL, HTML, CSS, Bootstrap
+
+- Developed a contact management web application.
+- Implemented user registration and login.
+- Added contact management features such as adding, editing, deleting and searching contacts.
+- Worked with database integration and secure password handling.
+
+2. MyJouleSkillsProject
+
+Technology: SAP Build – Joule Studio (Classic Edition)
+
+- Created and organized Joule Skills for supplier information retrieval.
+- Worked with food and technology supplier categories.
+- Developed customer order retrieval skills using Northwind data.
+- Tested the project as part of hands-on SAP Joule learning during my HCLTech internship.
+
+🛠️ Technical Skills
+
+Programming: Java, SQL
+
+Backend: Spring Boot, Spring Security, JDBC, REST APIs
+
+Database: MySQL
+
+Frontend: HTML, CSS, Bootstrap
+
+AI & Automation: AI Fundamentals, LLMs, Generative AI, SAP AI, SAP Joule, Joule Studio
+
+Tools: Git, GitHub, Maven, IntelliJ IDEA, VS Code
+
+🎓 Education
+
+B.Tech – Computer Science and Engineering (IoT)
+
+Meerut Institute of Engineering and Technology (MIET), Meerut
+
+Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+
+Expected Graduation: 2027
+
+📊 GitHub Statistics
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sandeshvikal&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshvikal&layout=compact&theme=tokyonight)
+
+🤝 Connect With Me
+
+- LinkedIn: "Sandesh Vikal" (https://www.linkedin.com/in/sandesh-vikal/)
+- GitHub: "sandeshvikal" (https://github.com/sandeshvikal)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sandeshvikal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ Always learning, building and improving!
